@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomTableView.cs](./CS/MasterDetailPerformance/CustomTableView.cs) (VB: [CustomTableView.vb](./VB/MasterDetailPerformance/CustomTableView.vb))
+* [Entitiy.cs](./CS/MasterDetailPerformance/DemoData/Entitiy.cs) (VB: [Entitiy.vb](./VB/MasterDetailPerformance/DemoData/Entitiy.vb))
+* [MainWindow.xaml](./CS/MasterDetailPerformance/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MasterDetailPerformance/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/MasterDetailPerformance/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MasterDetailPerformance/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to print / export top N grid rows
 
 
